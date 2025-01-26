@@ -13,3 +13,7 @@ N
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 K
 contracts/fiat-gateway.clar,9/5/955681b3b66b6bdf3613b795712592ffc8830494
+J
+tests/fiat-gateway.test.ts,8/c/8cac03f91051ab4164a745466a09da61ad97312e
+M
+tests/achievement-nft.test.ts,c/4/c4bb6b481c4ad657c136ea07dc7d2b8fd0c71ad3
