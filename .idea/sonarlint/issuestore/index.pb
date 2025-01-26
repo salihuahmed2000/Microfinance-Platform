@@ -17,3 +17,5 @@ J
 tests/fiat-gateway.test.ts,8/c/8cac03f91051ab4164a745466a09da61ad97312e
 M
 tests/achievement-nft.test.ts,c/4/c4bb6b481c4ad657c136ea07dc7d2b8fd0c71ad3
+M
+tests/loan-management.test.ts,6/b/6b1bcc5eb00947f78a30c490e24b085ca5e91c9b
