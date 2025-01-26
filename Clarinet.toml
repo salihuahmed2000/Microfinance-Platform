@@ -10,18 +10,13 @@ path = 'contracts/achievement-nft.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.credit-scoring]
-path = 'contracts/credit-scoring.clar'
+[contracts.fiat-gateway]
+path = 'contracts/fiat-gateway.clar'
 clarity_version = 2
 epoch = 2.5
 
 [contracts.loan-management]
 path = 'contracts/loan-management.clar'
-clarity_version = 2
-epoch = 2.5
-
-[contracts.loan-nft]
-path = 'contracts/loan-nft.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
