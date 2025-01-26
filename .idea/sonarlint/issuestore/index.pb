@@ -5,3 +5,5 @@ N
 contracts/loan-management.clar,5/c/5c3c50b913b89f4599785a003d3a6459304fddfe
 M
 contracts/credit-scoring.clar,6/2/62addf62734c4f3e24dea6098d1c1fa5d3756b29
+G
+contracts/loan-nft.clar,3/3/33687a2e51d3e850c9d519fa261243d7581b7892
