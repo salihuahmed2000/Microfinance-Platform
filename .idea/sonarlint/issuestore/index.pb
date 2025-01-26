@@ -7,3 +7,5 @@ M
 contracts/credit-scoring.clar,6/2/62addf62734c4f3e24dea6098d1c1fa5d3756b29
 G
 contracts/loan-nft.clar,3/3/33687a2e51d3e850c9d519fa261243d7581b7892
+N
+contracts/achievement-nft.clar,9/8/982b76ea786673950a41dea80cbbae1e7c42fa4d
